@@ -14,4 +14,4 @@ Project completed as part of the Epicodus curriculum. It was used an an introduc
 
 * DONE For each player, display the total number of shots they attempted.
 
-* Also display the percentage of shots they made and the total number of points they scored.
+* NOT COMPLETE Also display the percentage of shots they made and the total number of points they scored.
