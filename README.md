@@ -1,7 +1,7 @@
 ##Stats keeper
 
 Purpose:
-Project completed as part of the Epicodus curriculum. It was used an an introduction to Ember. 
+Project completed as part of the Epicodus curriculum. It was used as an introduction to Ember. 
 
 * DONE Stats keepers at basketball games need to record data quickly and calculate statistics on the fly. 
 
